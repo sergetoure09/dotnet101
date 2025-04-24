@@ -1,0 +1,15 @@
+/workspaces/dotnet101/bin/Debug/net8.0/dotnet101
+/workspaces/dotnet101/bin/Debug/net8.0/dotnet101.deps.json
+/workspaces/dotnet101/bin/Debug/net8.0/dotnet101.runtimeconfig.json
+/workspaces/dotnet101/bin/Debug/net8.0/dotnet101.dll
+/workspaces/dotnet101/bin/Debug/net8.0/dotnet101.pdb
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.AssemblyInfoInputs.cache
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.AssemblyInfo.cs
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.csproj.CoreCompileInputs.cache
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.sourcelink.json
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.dll
+/workspaces/dotnet101/obj/Debug/net8.0/refint/dotnet101.dll
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.pdb
+/workspaces/dotnet101/obj/Debug/net8.0/dotnet101.genruntimeconfig.cache
+/workspaces/dotnet101/obj/Debug/net8.0/ref/dotnet101.dll
